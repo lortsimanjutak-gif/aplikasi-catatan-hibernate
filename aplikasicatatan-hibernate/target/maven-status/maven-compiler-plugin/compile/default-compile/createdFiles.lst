@@ -1,0 +1,6 @@
+com\nasipecel\aplikasicatatan\Aplikasicatatan$1.class
+com\nasipecel\aplikasicatatan\dao\AplikasiDao.class
+com\nasipecel\aplikasicatatan\entity\UserAccount.class
+com\nasipecel\aplikasicatatan\entity\Catatan.class
+com\nasipecel\aplikasicatatan\hibernate\HibernateUtil.class
+com\nasipecel\aplikasicatatan\Aplikasicatatan.class
